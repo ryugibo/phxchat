@@ -18,3 +18,8 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+
+## Deploy heroku
+
+  * https://github.com/dwyl/learn-heroku/blob/master/elixir-phoenix-app-deployment.md
+  * https://github.com/gjaldon/heroku-buildpack-phoenix-static/issues/64
